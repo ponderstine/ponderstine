@@ -10,5 +10,5 @@
 - Undergraduate Research Assistant - Univ. of Colorado, Boulder (2019 - 2020)
 
 ## Contact
-[Stine.Ponder@gmail.com](mailto:stine.ponder@gmail.com)
+[Stine.Ponder@gmail.com](mailto:stine.ponder@gmail.com) <br>
 [Linkedin](https://www.linkedin.com/in/ponder-stine-588b551aa/)
