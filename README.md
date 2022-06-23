@@ -4,6 +4,10 @@
 ### SDE1 @Amazon
 ### BS/MS in aerospace engineering with a minor in CS and a concentration in bioastronautics from the Univ. of Colorado, Boulder, received May 2022
 
+## Current SDE @Amazon. Passionate about human spaceflight and aerospace systems. Academic and professional background
+in aerospace industry/research with AFRL engineering work. Experience in embedded flight software development and testing.
+Looking for software engineering opportunities with aerospace an
+
 ## Professional experience:
 - Current Software Development Engineer - Amazon (June 2022 - Present)
 - Embedded Cubesat Flight Software Engineer - Univ. of Colorado, Boulder (August 2021 - May 2022)
