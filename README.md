@@ -1,8 +1,8 @@
-# Ponder Stine
-## Boulder, CO
+# Ponder Estan Stine
+## Bellevue, WA
 
 ### SDE1 @Amazon
-### BS/MS in aerospace engineering with a minor in CS and a concentration in bioastronautics from Univ. of Colorado, Boulder, May 2022
+### BS/MS in aerospace engineering with a minor in CS and a concentration in bioastronautics from the Univ. of Colorado, Boulder, received May 2022
 
 ## Professional experience:
 - Current Software Development Engineer - Amazon (June 2022 - Present)
