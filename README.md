@@ -1,11 +1,11 @@
-# Ponder Estan Stine
-## Bellevue, WA
+# [Ponder E Stine](https://www.linkedin.com/in/ponder-stine-588b551aa/)
+##📍 Bellevue, WA
 
-### SDE1 @Amazon
-### BS/MS in aerospace engineering with a minor in CS and a concentration in bioastronautics from the Univ. of Colorado, Boulder, received May 2022
+###👨🏻‍💻📡 SDE1 @Amazon
+###🎓🚀🛰️ BS/MS in aerospace engineering with a minor in CS and a concentration in bioastronautics from the Univ. of Colorado, Boulder ⛰️ received May 2022
 
 ====================================================================================================
-## Current SDE @Amazon. Passionate about human spaceflight and aerospace systems. Academic and professional background in aerospace industry/research with AFRL engineering work. Experience in embedded flight software development and testing. Looking for software engineering opportunities with aerospace and embedded systems
+## Current SDE 1 @ Amazon. Passionate about human access to space and aerospace systems. Academic and professional background in aerospace industry/research, with AFRL engineering work. Experience in embedded flight software development and testing. Looking for software engineering opportunities with aerospace and embedded systems.
 ====================================================================================================
 
 ## Professional experience:
