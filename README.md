@@ -15,7 +15,7 @@
 - Undergraduate Research Assistant - Univ. of Colorado, Boulder (March 2019 - March 2020)
 
 <a href="https://www.credly.com/badges/489bcec1-e3a6-4980-8879-81bcd52dd088/public_url">
-  <img src="aws-certified-cloud-pratitioner.png"
+  <img src="aws-certified-cloud-practitioner.png"
        alt="AWS Cloud Practitioner Certification Badge"
        style="float: left;
        margin-right: 10px;" />
