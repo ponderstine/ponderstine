@@ -1,7 +1,7 @@
 # [Ponder Estan Stine](https://www.linkedin.com/in/ponder-e-stine/)
 ## 📍 Redmond, WA
 
-### 👨🏻‍💻📡 Embedded Software Engineer @Amazon
+### 👨🏻‍💻📡 Embedded Software Engineer @Amazon, Project Kuiper
 ### 🎓🚀🛰️ BS/MS in aerospace engineering with a concentration in bioastronautics and a minor in Computer Science from the Univ. of Colorado, Boulder '22 ⛰️
 
 ====================================================================================================
@@ -9,7 +9,7 @@
 ====================================================================================================
 
 ## Professional experience:
-- Embedded Software Development Engineer - Amazon (June 2022 - Present)
+- Embedded Software Development Engineer - Amazon Project Kuiper (June 2022 - Present)
 - Embedded Cubesat Flight Software Engineer - Univ. of Colorado, Boulder (August 2021 - May 2022)
 - NTS-3 Space Scholar - Air Force Research Laboratory (May 2021 - August 2021)
 - Undergraduate Research Assistant - Univ. of Colorado, Boulder (March 2019 - March 2020)
